@@ -13,13 +13,13 @@ introduction or the most important information
 ### Three Basics for a HTML Web Page
 
 1. Body
-  * Everything inside this element is shown inside the main browser window.
+   * Everything inside this element is shown inside the main browser window.
 
 2. Head
-  * This contains information about the page (rather than information that is shown within the main part of the browser window 
+   * This contains information about the page (rather than information that is shown within the main part of the browser window 
 
 3. Title
-  * This is where the title of the website goes. Its also what appears when you look at the tab
+   * This is where the title of the website goes. Its also what appears when you look at the tab
 
 ## Chapter 8
 
@@ -38,25 +38,25 @@ introduction or the most important information
 > class="something">
 
 * Block Elemnts
-> 1. <h1>
-> 2. <p>
-> 3. <ul>
-> 4. <li>
+> 1. `<h1>`
+> 2. `<p>`
+> 3. `<ul>`
+> 4. `<li>`
 
 * Inline Elements
-> 1. <a>
-> 2. <b>
-> 3. <em>
-> 4. <img>
+> 1. `<a>`
+> 2. `<b>`
+> 3. `<em>`
+> 4. `<img>`
 
 * Grouping Text & Elements In a Block
-> <div>   </div>
+> `<div>`   `</div>`
 
 * Grouping Text & Elements Inline
-> <span>
+> `<span>`
 
 * IFrames
-> <iframe>
+> `<iframe>`
 > src
   * The src attribute specifies the URL of the page to show in the frame.
 > height:
