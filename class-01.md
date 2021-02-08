@@ -13,13 +13,13 @@ introduction or the most important information
 ### Three Basics for a HTML Web Page
 
 1. Body
-   * Everything inside this element is shown inside the main browser window.
+  * Everything inside this element is shown inside the main browser window.
 
 2. Head
-   * This contains information about the page (rather than information that is shown within the main part of the browser window 
+  * This contains information about the page (rather than information that is shown within the main part of the browser window 
 
 3. Title
-   * This is where the title of the website goes. Its also what appears when you look at the tab
+  * This is where the title of the website goes. Its also what appears when you look at the tab
 
 ## Chapter 8
 
