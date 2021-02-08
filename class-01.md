@@ -69,4 +69,9 @@ introduction or the most important information
 
 ### HTML Layout
 
-* 
+  * the <header> element used to contain the site name and the main navigation. 
+  * The <footer> element contains copyright information, along with links to the privacy policy and terms and conditions.
+  * The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+  * The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+  * The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to.
+    
