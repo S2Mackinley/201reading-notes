@@ -10,7 +10,7 @@
 ### Some other things id like to learn
 
 1. *Why*
-2. *** Theres so many different languages
+2. *** Theres so many different languages ***
 
 ### I cant wait to start my career and be
 > Free at last, free at last, thank God almighty I'm free at last
