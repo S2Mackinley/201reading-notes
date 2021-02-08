@@ -74,4 +74,34 @@ introduction or the most important information
   * The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
   * The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
   * The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to.
+  * The <section> element groups related content together, and typically each section would have its own heading.
+
+## Chapter 18
+
+### Process & design
+
+1. Who is this deisgn for?
+  * Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is
+    * What is the age range of your target audience?
+    * Will your site appeal to more women or men? What is the mix?
+    * Which country do your visitors live in?
+    * Do they live in urban or rural areas?
+    * What is the average income of visitors?
+    * What level of education do they have?
+    * What is their marital or family status?
+    * What is their occupation?
+    * How many hours do they work per week?
+    * How often do they use the web?
+    * What kind of device do they use to access the web?
     
+2. Why People Visit **YOUR** Website
+    * Are they looking for general
+    entertainment or do they
+    need to achieve a specific
+    goal?
+    * If there is a specific goal, is
+    it a personal or professional
+    one?
+    * Do they see spending time on
+    this activity as essential or a
+    luxury?
