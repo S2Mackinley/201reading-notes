@@ -22,7 +22,7 @@
 
 ## Table of contents
 
-[Introduction to Development](IntroductiontoDevelopment.md)
+[Reading Notes 01](class-01.md)
 
 [Basics of HTML, CSS & JS](html.md)
 
