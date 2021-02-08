@@ -105,3 +105,23 @@ introduction or the most important information
     * Do they see spending time on
     this activity as essential or a
     luxury?
+3. What Information Your Visitors Need
+    *  Will visitors be familiar with
+    your subject area / brand
+    or do you need to introduce
+    yourself?
+    * Will they be familiar with
+    the product / service /
+    information you are covering
+    or do they need background
+    information on it?
+    * What are the most important
+    features of what you are
+    offering?
+4. How Often People Will Visit Your Site
+    * How often do the same
+    people return to purchase
+    from you?
+    * How often is your stock
+    updated or your service
+    changed?
