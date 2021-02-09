@@ -24,7 +24,7 @@
 
 [Reading Notes 01](class-01.md)
 
-[Basics of HTML, CSS & JS](html.md)
+[Lab1b](lab1b.html)
 
 [HTML Lists, Control Flow with JS, and the CSS Box Model]()
 
