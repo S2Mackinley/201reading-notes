@@ -5,10 +5,15 @@
 **Headings**
 
 `<h1>`
+
 `<h2>`
+
 `<h3>`
+
 `<h4>`
+
 `<h5>`
+
 `<h6>`
 
 **Paragraphs**
@@ -25,12 +30,12 @@
 **Superscript & Subscript**
 
 `<sup>`
-The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22
+The `<sup>` element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22
 
 
 `<sub>`
 
-The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H2 0.
+The `<sub>` element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H2 0.
 
 
 ## Chapter 10
