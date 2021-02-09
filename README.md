@@ -26,7 +26,7 @@
 
 [Lab1b](lab1b.html)
 
-[HTML Lists, Control Flow with JS, and the CSS Box Model]()
+[read.02](read02.md)
 
 [HTML Links, JS Functions, and Intro to CSS Layout]()
 
