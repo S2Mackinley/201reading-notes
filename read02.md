@@ -2,7 +2,7 @@
 
 ## Chapter 2
 
-** Headings **
+**Headings**
 
 `<h1>`
 `<h2>`
@@ -11,18 +11,18 @@
 `<h5>`
 `<h6>`
 
-** Paragraphs **
+**Paragraphs**
 
 `<p>`
 
-** bold and italic **
+**bold and italic**
 `<strong>`
 `<b>` Bold
 
 `<i>` italic
 `<em>`
 
-** Superscript & Subscript **
+**Superscript & Subscript**
 
 `<sup>`
 The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22
@@ -46,21 +46,21 @@ The <sub> element is used to contain characters that should be subscript. It is 
 
 ### Using external CSS
 
-** `<link>` **
+**`<link>`**
   * The <link> element can be used in an HTML document to tell the browser where to find the CSS file used to style the page. It is an empty element (meaning it does not need a closing tag), and it lives inside the <head> element. It should use three attributes:
 
-** `<href>` **
+**`<href>`**
   * This specifies the path to the CSS file (which is often placed in a folder called css or styles).
   
-** `< type>` **
+**`< type>`**
   * This attribute specifies the type of document being linked to. The value should be text/css.
   
-** `<rel>` **
+**`<rel>`**
   * This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
   
 ### Using Internal CSS
 
-** `<style>` **
+**`<style>`**
   * The <style> element should use the type attribute to indicate that the styles are specified in CSS. The value should be text/ css.
   
 ### CSS selectors
@@ -71,23 +71,23 @@ The <sub> element is used to contain characters that should be subscript. It is 
 
 ## Chapter 2 Basic JavaScript
 
-** JavaScript runs where it is found in the HTML **
+**JavaScript runs where it is found in the HTML**
 
 * When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything.
 
-** Statements **
+**Statements**
 
 * A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
 * The semicolon also tells the JavaScript interpreter when a step is over, indicating that it should move to the next step. 
 
-** What is a Variable? **
+**What is a Variable?**
 
 * A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
 `var quantity;`
   * now you need to assign a value to the variable
     * `quantity = 3;`
     
-** Data Types **
+**Data Types**
 
 * Numeric data type
   * `0.75`
@@ -99,12 +99,19 @@ The <sub> element is used to contain characters that should be subscript. It is 
 ## Comparison Operators
 
 `==` is equal to
+
 `!=` is not equal to
+
 `===` strict equal to
+
 `!==` strict not equal to
+
 `>` Greater Than
+
 `<` less than
+
 `>=` greater than or equal to
+
 `<=` less than or equal to
 
 
