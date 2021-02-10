@@ -21,7 +21,7 @@
 
 ## Table of contents
 
-[Reading Notes 01](class-01.md)
+[Reading Notes 01](read01.md)
 
 [Reading Notes 02](read02.md)
 
