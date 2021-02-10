@@ -16,7 +16,7 @@
 > Free at last, free at last, thank God almighty I'm free at last
 
 
-~~I'm really nervous about this calss~~
+~~I'm really nervous about this class~~
 
 
 ## Table of contents
