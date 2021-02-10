@@ -19,10 +19,9 @@
 ~~I'm really nervous about this calss~~
 
 
-
 ## Table of contents
 
-[Reading Notes 01](read01.md)
+[Reading Notes 01](class-01.md)
 
 [Reading Notes 02](read02.md)
 
@@ -30,22 +29,24 @@
 
 [Reading Notes 04](read04.md)
 
-[The DOM, Domain Modeling, and Introduction to Objects]()
+[Reading Notes 05](read05.md)
 
-[Intro to Object-Oriented Programming with Constructor Functions; HTML Tables]()
+[Reading Notes 06](read06.md)
 
-[More Topics in CSS Layouts]()
+[Reading Notes 07](read07.md)
 
-[HTML Forms and JS Events]()
+[Reading Notes 08](read08.md)
 
-[JS Debugging and More CSS Layout]()
+[Reading Notes 09](read09.md)
 
-[A/V, Practical Info, and Getting the Vote Tracker Started]()
+[Reading Notes 10](read10.md)
 
-[Adding A Chart to the Vote Tracker App]()
+[Reading Notes 11](read11.md)
 
-[CSS Animations; Intermediate JS Topics; Using Local Storage to Share Data Between Two Pages]()
+[Reading Notes 12](read12.md)
 
-[Code 201 Review, Code 301 Preview, and Project Week Kickoff]()
+[Reading Notes 13](read13.md)
 
-[Notes]()
+[Reading Notes 14](read14.md)
+
+[Reading Notes 15](read15.md)

@@ -118,7 +118,3 @@ The `<sub>` element is used to contain characters that should be subscript. It i
 `>=` greater than or equal to
 
 `<=` less than or equal to
-
-
-
-
