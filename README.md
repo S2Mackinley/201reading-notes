@@ -22,13 +22,13 @@
 
 ## Table of contents
 
-[Reading Notes 01](class-01.md)
+[Reading Notes 01](read01.md)
 
 [Reading Notes 02](read02.md)
 
 [Reading Notes 03](read03.md)
 
-[CSS for Images, Color, Text; Git Branching]()
+[Reading Notes 04](read04.md)
 
 [The DOM, Domain Modeling, and Introduction to Objects]()
 
