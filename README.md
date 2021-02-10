@@ -24,11 +24,9 @@
 
 [Reading Notes 01](class-01.md)
 
-[Lab1b](lab1b.html)
+[Reading Notes 02](read02.md)
 
-[read.02](read02.md)
-
-[HTML Links, JS Functions, and Intro to CSS Layout]()
+[Reading Notes 03](read03.md)
 
 [CSS for Images, Color, Text; Git Branching]()
 
