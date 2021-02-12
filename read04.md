@@ -3,7 +3,7 @@
 ## Chapter 4 (74-93)
 
 **Links**
- 
+
 * links allow you to move from webpage to webpage
 * there are so many different types of links
 * Links from one website to another
@@ -14,7 +14,7 @@ same page
 * Links that start up your email program and address a new
 email to someone
 
-**Creating links**
+**Creating Links**
 
 * to create a link use
 
@@ -26,3 +26,9 @@ email to someone
 
 **linking the same site but other pages**
 > `<a href="index2.html">Page 2</a>`
+
+
+Chapter 15: “Layout” (pp.358-404)
+
+Chapter 3(pp.86-99 ONLY)
+i will finish this later i promise
