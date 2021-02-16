@@ -55,19 +55,27 @@ examples:
 
 `Var hotel = new Object();`
 
+
 `hotel.name = "Royal sands";`
+
 
 `hotel.rooms= 40;`
 
+
 `hotel.booked = 25;`
+
 
 `hotel.checkAvailibality = function
 
+
 `() {`
+
 
 `return this.rooms - this.booked;`
 
+
 `}`
+
 
 * two ways to update the value of properties
 
