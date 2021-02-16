@@ -65,7 +65,7 @@ examples:
 `hotel.booked = 25;`
 
 
-`hotel.checkAvailibality = function
+`hotel.checkAvailibality = function`
 
 
 `() {`
