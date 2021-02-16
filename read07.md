@@ -54,12 +54,18 @@ examples:
 ## Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
 `Var hotel = new Object();`
+
 `hotel.name = "Royal sands";`
+
 `hotel.rooms= 40;`
+
 `hotel.booked = 25;`
 
-`hotel.checkAvailibality = function() {`
-    `return this.rooms - this.booked;`
+`hotel.checkAvailibality = function
+
+`() {`
+
+`return this.rooms - this.booked;`
 
 `}`
 
@@ -98,9 +104,9 @@ examples:
 
     `var quayHotel = new Hotel('Quay', 40, 25):`
 
-* the first object is called quayHotel. its nme is 'Quay' and it has 40 rooms, 25 of which are booked
+* the first object is called quayHotel. its name is 'Quay' and it has 40 rooms, 25 of which are booked
 
-    var parkHotel = new Hotel('park', 120, 77);`
+    `var parkHotel = new Hotel('park', 120, 77);`
 
-* this obkect is called parkHotel. it name is 'Park' and it has 120 rooms, 77 are booked
+* this object is called parkHotel. it name is 'Park' and it has 120 rooms, 77 are booked
 
