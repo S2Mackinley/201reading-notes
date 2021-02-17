@@ -8,13 +8,13 @@
 
 3. An example of block elements is :
 
-    A. <img>
+    A. `<img>`
 
-    B. <b>
+    B. `<b>`
 
-    C. <i>
+    C. `<i>`
 
-    D. <h1>
+    D. `<h1>`
 
 4. If you put a **block** level element inside another **block** level element then the outer box is known as the _______ or _______ _______.
 
@@ -42,7 +42,7 @@ element (within the same containing element) should touch the left of right hand
 
 2. True
 
-3. <h1> is the only one that starts on a new line
+3. `<h1>` is the only one that starts on a new line
 
 4. Containing or parent element.
 
