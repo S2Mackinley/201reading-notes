@@ -1,37 +1,41 @@
-# Google Teams
+# CSS
 
-Julia Rozovsky
 
-* worked at consulting firm (left)
 
-* resercher for two prefessors at Harvard (left)
+to rotate an item use this in css
 
-* went to YALE School of Managment
+`.box-1 {`
 
-* Joined Study group
+  `transform: rotate(20deg);`
 
-* stressfull and didnt enjoy it
+`}`
 
-* Joined another group called Case competitions
+`.box-2 {`
 
-* new group is more fun with the same goal
+  `transform: rotate(-55deg);`
 
-* Joins project Aristotle 
+`}`
 
-* studied what makes a good group
+you can also change the size of a figure using `transform: scale();
 
-* people who can read emotions based on eyes have  more successful groups
+To change the width or hieght use `X` or `y` at the end of scale in above code.
 
-* people who are bossy and dont let others talk have poor group skills
+translate works a bit like position relative
 
-* letting the group get to know each other lets them be more creative
+`.box-1 {`
 
-* sakaguchi gets cancer
+  `transform: translateX(-10px);`
 
-* tells group about it
+`}`
 
-* group becomes more open and as a team they improve by sharing other things are currently upseting them
 
-* Sakaguchi loves work so much that he continues to work even though he will soon be gone because " why wouldn't i spend time with people who care about me?"
 
-* this says a lot about his home life. Possibly why everyone is so scared of him.
+skew is used to distort the horizontal acis and the vertical axis
+the first number is the x and the second is the y
+
+`.box-3 {`
+
+  `transform: skew(5deg, -20deg);`
+
+`}`
+
